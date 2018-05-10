@@ -8,7 +8,7 @@ REST uidelines for Riot Emergence projects
 ---
 - [Collections in Plural](#collections-in-plural)
 - [Use Natural Identifiers Always That Is Possible](#use-natural-identifiers-always-that-is-possible)
-- [Where Natural Identifiers Cannot Be Used, Use The P-R-G Pattern](##where-natural-identifiers-cannot-be-used-use-the-p-r-g-pattern)
+- [Where Natural Identifiers Cannot Be Used, Use The P-R-G Pattern](#where-natural-identifiers-cannot-be-used-use-the-p-r-g-pattern)
 - [Composite Identifiers In Aggregated Resources URLs](#composite-identifiers-in-aggregated-resources-urls)
 ---
 
@@ -30,7 +30,7 @@ The PUT method has the advantage of being idempotent.
 
 The Post-Redirect-Get Pattern
 
-# Composite Keys in Aggregated Resources URLs
+# Composite Identifiers in Aggregated Resources URLs
 
 Eg: A Person: 
 http://example.com/persons/john-smith
